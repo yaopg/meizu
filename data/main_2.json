@@ -1,0 +1,15 @@
+{
+	"main":[
+		{"src":"src/assets/image/14.png","sp1":"魅族15","sp2":"定制全面屏 人机交互新体验","sp3":"￥1998 起"},
+		{"src":"src/assets/image/15.png","sp1":"魅族 15 Plus","sp2":"2000万暗光双摄 智能美颜","sp3":"￥2498 起"},
+		{"src":"src/assets/image/16.png","sp1":"魅族 M15","sp2":"支持人脸识别 抬腕即解锁","sp3":"￥1398 起"},
+		{"src":"src/assets/image/17.png","sp1":"魅蓝 6T","sp2":"双摄全面屏 游戏长续航","sp3":"￥799 起"},
+		{"src":"src/assets/image/18.png","sp1":"16th Plus","sp2":"每日10点限量预售","sp3":"￥3198 起"},
+		{"src":"src/assets/image/19.png","sp1":"魅蓝 E3","sp2":"玩得畅快 拍得清晰","sp3":"￥1799 起"},
+		{"src":"src/assets/image/20.png","sp1":"魅族 16th","sp2":"骁龙845 AI加速 屏下指纹","sp3":"￥2698 起"},
+		{"src":"src/assets/image/21.png","sp1":"魅蓝 S6","sp2":"Exynos疾速游戏芯片","sp3":"￥999 起"},
+		{"src":"src/assets/image/22.jpg","sp1":"","sp2":"","sp3":""},
+		{"src":"src/assets/image/23.jpg","sp1":"","sp2":"","sp3":""}
+	],
+	"fa":[{"src":"src/assets/image/13.jpg"}]
+}

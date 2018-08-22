@@ -1,0 +1,16 @@
+{
+	"moble":[
+		{"src":"src/assets/image/moble01.jpg","sp1":"【预计4周-8周发货】魅族 16th","sp2":"骁龙845 AI加速 屏幕下指纹","sp3":"2698"},
+		{"src":"src/assets/image/moble02.jpg","sp1":"【预计4周-8周发货】魅族 16th Plus","sp2":"骁龙845 AI加速 屏幕下指纹","sp3":"3198"},
+		{"src":"src/assets/image/moble03.jpg","sp1":"魅蓝 6T","sp2":"领券立减50元","sp3":"799"},
+		{"src":"src/assets/image/moble04.jpg","sp1":"魅族 M15","sp2":"魅族15系列最高降501元，享魅族16系列优先购买权","sp3":"1398"},
+		{"src":"src/assets/image/moble05.jpg","sp1":"魅族 15","sp2":"魅族15系列最高降501元，享魅族16系列优先购买权","sp3":"1998"},
+		{"src":"src/assets/image/moble06.jpg","sp1":"魅蓝 E3","sp2":"领券立减100元","sp3":"1799"},
+		{"src":"src/assets/image/moble07.jpg","sp1":"魅族 15 Plus","sp2":"魅族15系列最高降501元，享魅族16系列优先购买权","sp3":"2498"},
+		{"src":"src/assets/image/moble08.jpg","sp1":"魅蓝 S6","sp2":"领券最高减120元","sp3":"999"},
+		{"src":"src/assets/image/moble09.jpg","sp1":"魅族 16th Plus","sp2":"8月20日0点  现货开售","sp3":"3198"},
+		{"src":"src/assets/image/moble10.jpg","sp1":"魅族 16th","sp2":"8月20日0点  现货开售","sp3":"2698"},
+		{"src":"src/assets/image/moble11.jpg","sp1":"魅蓝 6","sp2":" ","sp3":"599"},
+		{"src":"src/assets/image/moble12.jpg","sp1":"魅蓝 Note6","sp2":"","sp3":"799"}
+	]
+}

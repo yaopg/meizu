@@ -1,0 +1,22 @@
+{
+	"mount":[
+		{"src":"src/assets/image/mount01.jpg","sp1":"魅蓝双向闪充移动电源","sp2":"潮流新色 闪充升级","sp3":"149"},
+		{"src":"src/assets/image/mount02.jpg","sp1":"iEager Micro USB数据线","sp2":" 安卓数据线  完美适配","sp3":"19.9"},
+		{"src":"src/assets/image/mount03.jpg","sp1":"iEager Micro USB 数据线","sp2":"兼容广泛，传输稳定，高效传输","sp3":"9.9"},
+		{"src":"src/assets/image/mount04.jpg","sp1":"iEager 2.0 Type-C 数据线","sp2":"兼容广泛，快速充电，合金接口，持久耐用","sp3":"9.9"},
+		{"src":"src/assets/image/mount05.jpg","sp1":"iEager 2.0 Type-C 数据线 拼团专享","sp2":"兼容广泛，快速充电，合金接口，持久耐用","sp3":"19.9"},
+		{"src":"src/assets/image/mount06.jpg","sp1":"罗马仕（ROMOSS）IG10钢琴移动电源","sp2":"安全可靠随身携带type-c输入聚合物","sp3":"69"},
+		{"src":"src/assets/image/mount07.jpg","sp1":"魅族 15 轻薄保护壳","sp2":"轻薄与美感集于一身","sp3":"19"},
+		{"src":"src/assets/image/mount08.jpg","sp1":"魅族无线充电器","sp2":"10W快速充电 无线即放即充","sp3":"99"},
+		{"src":"src/assets/image/mount09.jpg","sp1":"魅族 Type-C 2.0数据线","sp2":"5A大电流充电 高速传输","sp3":"59"},
+		{"src":"src/assets/image/mount10.jpg","sp1":"魅蓝 S6 潮趣真我保护壳","sp2":"致敬艺术经典","sp3":"49"},
+		{"src":"src/assets/image/mount11.jpg","sp1":"魅族 16th Plus 高透保护膜","sp2":"高透光率 支持魅族16th Plus屏幕指纹解锁","sp3":"19"},
+		{"src":"src/assets/image/mount12.jpg","sp1":"魅族 16th 高透保护膜","sp2":"高透光率 支持魅族16th屏幕指纹解锁","sp3":"19"},
+		{"src":"src/assets/image/mount13.jpg","sp1":"快充电源适配器（UP0830S）","sp2":"快速充电 安全无忧","sp3":"89"},
+		{"src":"src/assets/image/mount14.jpg","sp1":"魅族缤纷 MINi自拍杆","sp2":"轻巧Mini  自在随心","sp3":"49"},
+		{"src":"src/assets/image/mount15.jpg","sp1":"魅族蓝牙自拍杆","sp2":"还给你自由的双手","sp3":"69"},
+		{"src":"src/assets/image/mount16.jpg","sp1":"魅族Micro USB熊猫数据线","sp2":"柔韧耐磨 全面兼容","sp3":"49"},
+		{"src":"src/assets/image/mount17.jpg","sp1":"双口快充旅行充电器","sp2":"放心使用 安心旅行","sp3":"129"},
+		{"src":"src/assets/image/mount18.jpg","sp1":"魅族 15 Plus 高透保护膜","sp2":"93%高透光率 通透顺滑","sp3":"19"}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"vedio":[
+		{"src":"src/assets/image/48.jpg","p":"魅族 16 feature 视频",
+		 "src1":"src/assets/image/49.jpg","p1":"魅族 16 工艺视频"	
+		},
+		{"src":"src/assets/image/50.png","p":"在魅族 15 产品视频",
+		 "src1":"src/assets/image/51.png","p1":"POP 耳机亮相视频"	
+		}
+	]
+}

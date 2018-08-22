@@ -1,0 +1,13 @@
+{
+	"life":[
+		{"src":"src/assets/image/life01.jpg","sp1":"飞科剃须刀FS373","sp2":"全身水洗 自主研磨 智能充电显示","sp3":" 99"},
+		{"src":"src/assets/image/life02.jpg","sp1":"飞科FH6266 负离子 大功率 家用冷热电吹风","sp2":"负离子功能 强劲大功率","sp3":"75"},
+		{"src":"src/assets/image/life03.jpg","sp1":"天然乳胶枕","sp2":"福满园MYLEFO泰国天然乳胶枕头护颈椎枕 ","sp3":"128"},
+		{"src":"src/assets/image/life04.jpg","sp1":"慈慈CC-X107大六插位家用办公插线板插座","sp2":"带线插排 电源拖接线板 插座转换器多用","sp3":"26.8"},
+		{"src":"src/assets/image/life05.jpg","sp1":"慈慈CC-X106小六插位家用办公插线板插座","sp2":"带线插排 电源拖接线板 插座转换器多用 ","sp3":"21.9"},
+		{"src":"src/assets/image/life06.jpg","sp1":"慈慈CC-X104四插位家用办公插线板插座","sp2":"带线插排 电源拖接线板 插座转换器多用 ","sp3":"17.8"},
+		{"src":"src/assets/image/life07.jpg","sp1":"魅蓝胸包","sp2":"时尚个性 动无拘束","sp3":"119"},
+		{"src":"src/assets/image/life08.jpg","sp1":"魅蓝数码收纳包","sp2":"随身收纳 安全安心","sp3":"59"}
+		
+	]
+}

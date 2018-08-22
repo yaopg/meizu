@@ -1,0 +1,10 @@
+{
+	"product":[
+		{"src":"src/assets/image/40.jpg","tic":"src/assets/image/46.jpg","sp1":"showbill","p":"在 18:9 屏幕大行其道的今天，魅族重塑经典打造了这款产品，并赋予它非凡的使用体验和惊艳设计","sp2":"MEIZU 15 Plus",
+		 "src1":"src/assets/image/41.jpg","tic1":"src/assets/image/47.jpg","sp3":"小兔言言","p1":"魅蓝系列中定位最高的 E3 自面世以来就一直热卖，大胆的撞色设计让丹青款显得格外诱人。","sp4":"魅蓝 E3"
+		},
+		{"src":"src/assets/image/42.jpg","tic":"src/assets/image/44.jpg","sp1":"王员外可爱多","p":"LIVE 四单元动铁耳机是魅族声学的旗舰作品，配合魅族手机尽享酣畅淋漓的视听盛宴。","sp2":"魅族 LIVE 四单元动铁耳机",
+		 "src1":"src/assets/image/43.jpg","tic1":"src/assets/image/45.jpg","sp3":"longlongsting","p1":"只需要花 499 元，魅族 POP 真无线蓝牙耳机带来的是全新的音乐体验，美好的旋律从此不被线材束缚。","sp4":"POP 真无线蓝牙耳机"
+		}
+	]
+}

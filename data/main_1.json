@@ -1,0 +1,14 @@
+{
+   "pic":[
+            {"src":"src/assets/image/01.jpg"},
+            {"src":"src/assets/image/02.jpg"},
+            {"src":"src/assets/image/03.jpg"},
+            {"src":"src/assets/image/04.jpg"},
+            {"src":"src/assets/image/05.jpg"}
+     ],
+   "photo":[
+      "src/assets/image/02.jpg",
+      "src/assets/image/11.jpg",
+      "src/assets/image/12.jpg"
+   ]
+}

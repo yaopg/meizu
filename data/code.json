@@ -1,0 +1,12 @@
+{
+	"code":[
+		{"src":"src/assets/image/code01.jpg","sp1":"苏泊尔加热破壁料理机家用豆浆辅食养生","sp2":"一年只换不修","sp3":"799"},
+		{"src":"src/assets/image/code02.jpg","sp1":"苏泊尔电饭煲锅4L智能家用大容量全自动","sp2":"升级金属机身","sp3":"279"},
+		{"src":"src/assets/image/code03.jpg","sp1":"千幻魔镜6代耳机版3D智能VR眼镜 拼团专享","sp2":"舒适可调节耳机 可拆吸附式面板 支持近视用户观看 ","sp3":"148"},
+		{"src":"src/assets/image/code04.jpg","sp1":"千幻一代升级版3D智能VR眼镜 拼团专享","sp2":"全景视频  沉浸式游戏体验 瞳距调节 散热设计 ","sp3":"119"},
+		{"src":"src/assets/image/code05.jpg","sp1":"千幻魔镜6代耳机版VR 智能3D眼镜","sp2":"舒适可调节耳机 可拆吸附式面板 支持近视用户观看 ","sp3":"129"},
+		{"src":"src/assets/image/code06.jpg","sp1":"千幻一代升级版3D智能VR眼镜 手机游戏头盔","sp2":"全景视频  沉浸式游戏体验 瞳距调节 散热设计 ","sp3":"119"},
+		{"src":"src/assets/image/code07.jpg","sp1":"千幻五代 shinecon 虚拟现实3D眼镜","sp2":"轻盈小巧 双镜片焦距 独立调节 震撼3D体验","sp3":"39"},
+		{"src":"src/assets/image/code08.jpg","sp1":"乐心手环MAMBO 大麦版","sp2":"微信互联 来电提醒 即时消息 睡眠监测 防水","sp3":"79"}
+	]
+}

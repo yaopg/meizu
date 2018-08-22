@@ -1,0 +1,12 @@
+{
+	"video":[
+		{"src":"src/assets/image/video01.jpg","sp1":"魅蓝EP52蓝牙耳机","sp2":"轻盈悦耳 动无拘束","sp3":"249"},
+		{"src":"src/assets/image/video02.jpg","sp1":"先锋SEC-S201BT入耳式无线蓝牙运动耳机","sp2":"纳米防汗 专业耳翼 持久续航","sp3":"599"},
+		{"src":"src/assets/image/video03.jpg","sp1":"JBL Endurance Run 可通话绕耳式耳麦","sp2":"入耳式有线运动音乐耳机耳麦  HiFi发烧 ","sp3":"199"},
+		{"src":"src/assets/image/video04.jpg","sp1":"先锋SEC-S201BT入耳式无线蓝牙运动耳","sp2":"纳米防汗 专业耳翼 持久续航 ","sp3":"599"},
+		{"src":"src/assets/image/video05.jpg","sp1":"先锋SEC-CL32S入耳式耳机","sp2":"人声高清通透 三键线控带麦 ","sp3":"129"},
+		{"src":"src/assets/image/video06.jpg","sp1":"先锋 SEC-CL31S 耳机","sp2":"线控高清通话，防缠绕线材，三角腔体 ","sp3":"129"},
+		{"src":"src/assets/image/video07.jpg","sp1":"先锋SEC-E322BT无线蓝牙运动通话耳机","sp2":"轻量化设计 佩戴舒适 持久续航","sp3":"299"},
+		{"src":"src/assets/image/video08.jpg","sp1":"先锋SEC-CL32S入耳式耳机","sp2":"人声高清通透 三键线控带麦","sp3":"99"}
+	]
+}
