@@ -1,4 +1,4 @@
-# meizu
+# https://yaopg.github.io/meizu/
 
 > A Vue.js project
 
